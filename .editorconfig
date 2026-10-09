@@ -1,0 +1,35 @@
+# FleetMaintenance. Машинна частина стандарту кодування.
+# Правила рівня error ламають складання, а отже й конвеєр CI.
+root = true
+
+[*]
+charset = utf-8
+indent_style = space
+indent_size = 4
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.{csproj,props,yml,yaml,json,xml}]
+indent_size = 2
+
+[*.md]
+trim_trailing_whitespace = false
+
+[*.cs]
+max_line_length = 100
+
+csharp_new_line_before_open_brace = types,methods,properties,accessors,control_blocks,lambdas,local_functions,anonymous_methods
+csharp_new_line_before_else = true
+csharp_new_line_before_catch = true
+csharp_new_line_before_finally = true
+csharp_using_directive_placement = outside_namespace:error
+csharp_style_namespace_declarations = file_scoped:error
+csharp_prefer_braces = true:error
+dotnet_sort_system_directives_first = true
+dotnet_separate_import_directive_groups = false
+dotnet_style_readonly_field = true:error
+dotnet_style_qualification_for_field = false:error
+dotnet_style_qualification_for_property = false:error
+dotnet_style_qualification_for_method = false:error
+dotnet_style_predefined_type_for_locals_parameters_members = true:error
