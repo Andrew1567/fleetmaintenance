@@ -1,0 +1,1542 @@
+[
+  {
+    "Id": 1,
+    "Plate": "MH7831EM",
+    "Model": "Skoda Octavia",
+    "Type": "Car",
+    "RegisteredOn": "2019-01-24",
+    "RegisteredMileage": 15000,
+    "Mileage": 291895,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-06-27",
+        "Mileage": 278601
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2025-12-21",
+        "Mileage": 255457
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2025-12-22",
+        "Mileage": 264826
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Plate": "HA3522PT",
+    "Model": "Volvo FL",
+    "Type": "Truck",
+    "RegisteredOn": "2019-04-23",
+    "RegisteredMileage": 15000,
+    "Mileage": 305405,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-05-28",
+        "Mileage": 284117
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2025-10-21",
+        "Mileage": 271524
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-05-01",
+        "Mileage": 286132
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Plate": "HP1721HB",
+    "Model": "Iveco Eurocargo",
+    "Type": "Truck",
+    "RegisteredOn": "2019-01-26",
+    "RegisteredMileage": 40000,
+    "Mileage": 315864,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-05-21",
+        "Mileage": 301866
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2026-08-20",
+        "Mileage": 310269
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-10-20",
+        "Mileage": 314828
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Plate": "MX3014MP",
+    "Model": "Kia Ceed",
+    "Type": "Car",
+    "RegisteredOn": "2019-11-17",
+    "RegisteredMileage": 15000,
+    "Mileage": 219771,
+    "History": [
+      {
+        "Kind": "Brakes",
+        "Date": "2025-09-06",
+        "Mileage": 177850
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-10-04",
+        "Mileage": 217386
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "Plate": "MO2161EI",
+    "Model": "VW Crafter",
+    "Type": "Van",
+    "RegisteredOn": "2020-02-18",
+    "RegisteredMileage": 90000,
+    "Mileage": 170545,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-10-22",
+        "Mileage": 170267
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2026-07-02",
+        "Mileage": 165993
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-04-08",
+        "Mileage": 165175
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "Plate": "AE9608EB",
+    "Model": "Kia Ceed",
+    "Type": "Car",
+    "RegisteredOn": "2020-03-02",
+    "RegisteredMileage": 90000,
+    "Mileage": 181311,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-10-07",
+        "Mileage": 180461
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2025-07-06",
+        "Mileage": 163654
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-10-11",
+        "Mileage": 180467
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "Plate": "KB4537BK",
+    "Model": "Renault Master",
+    "Type": "Van",
+    "RegisteredOn": "2020-03-19",
+    "RegisteredMileage": 0,
+    "Mileage": 84231,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-04-05",
+        "Mileage": 78094
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2025-09-08",
+        "Mileage": 70250
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-07-24",
+        "Mileage": 81065
+      }
+    ]
+  },
+  {
+    "Id": 8,
+    "Plate": "KE7989AM",
+    "Model": "Volvo FL",
+    "Type": "Truck",
+    "RegisteredOn": "2022-06-01",
+    "RegisteredMileage": 40000,
+    "Mileage": 184356,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-09-17",
+        "Mileage": 179824
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2025-06-03",
+        "Mileage": 145412
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-07-11",
+        "Mileage": 173794
+      }
+    ]
+  },
+  {
+    "Id": 9,
+    "Plate": "BT2758XT",
+    "Model": "Skoda Octavia",
+    "Type": "Car",
+    "RegisteredOn": "2022-07-07",
+    "RegisteredMileage": 0,
+    "Mileage": 101403,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-09-30",
+        "Mileage": 99393
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2026-07-16",
+        "Mileage": 93651
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-04-09",
+        "Mileage": 91663
+      }
+    ]
+  },
+  {
+    "Id": 10,
+    "Plate": "AT1003EI",
+    "Model": "Hyundai Elantra",
+    "Type": "Car",
+    "RegisteredOn": "2023-06-07",
+    "RegisteredMileage": 40000,
+    "Mileage": 136831,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-10-15",
+        "Mileage": 135668
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2024-12-13",
+        "Mileage": 68605
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-07-05",
+        "Mileage": 129249
+      }
+    ]
+  },
+  {
+    "Id": 11,
+    "Plate": "HO1462PP",
+    "Model": "MAN TGL",
+    "Type": "Truck",
+    "RegisteredOn": "2024-09-22",
+    "RegisteredMileage": 0,
+    "Mileage": 82400,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-08-18",
+        "Mileage": 73451
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2026-05-03",
+        "Mileage": 67558
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-04-18",
+        "Mileage": 58494
+      }
+    ]
+  },
+  {
+    "Id": 12,
+    "Plate": "CP2925XE",
+    "Model": "Kia Ceed",
+    "Type": "Car",
+    "RegisteredOn": "2022-11-12",
+    "RegisteredMileage": 0,
+    "Mileage": 106086,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-09-11",
+        "Mileage": 102509
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2025-03-18",
+        "Mileage": 71830
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-08-07",
+        "Mileage": 98844
+      }
+    ]
+  },
+  {
+    "Id": 13,
+    "Plate": "IB7603KH",
+    "Model": "Toyota Camry",
+    "Type": "Car",
+    "RegisteredOn": "2020-05-17",
+    "RegisteredMileage": 40000,
+    "Mileage": 175764,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-03-15",
+        "Mileage": 163520
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2026-04-12",
+        "Mileage": 161855
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-04-13",
+        "Mileage": 164808
+      }
+    ]
+  },
+  {
+    "Id": 14,
+    "Plate": "KX6596AO",
+    "Model": "Renault Master",
+    "Type": "Van",
+    "RegisteredOn": "2023-07-21",
+    "RegisteredMileage": 0,
+    "Mileage": 32114,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-06-28",
+        "Mileage": 27833
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2026-08-30",
+        "Mileage": 30575
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2025-12-04",
+        "Mileage": 21387
+      }
+    ]
+  },
+  {
+    "Id": 15,
+    "Plate": "AC1000CX",
+    "Model": "Mercedes Sprinter",
+    "Type": "Van",
+    "RegisteredOn": "2021-03-09",
+    "RegisteredMileage": 90000,
+    "Mileage": 243623,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2025-12-28",
+        "Mileage": 221958
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2026-09-04",
+        "Mileage": 240351
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-01-24",
+        "Mileage": 229007
+      }
+    ]
+  },
+  {
+    "Id": 16,
+    "Plate": "BP9752HM",
+    "Model": "Hyundai Elantra",
+    "Type": "Car",
+    "RegisteredOn": "2020-08-23",
+    "RegisteredMileage": 40000,
+    "Mileage": 178958,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2025-12-18",
+        "Mileage": 155891
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2026-05-28",
+        "Mileage": 168693
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-05-24",
+        "Mileage": 168218
+      }
+    ]
+  },
+  {
+    "Id": 17,
+    "Plate": "IB5272KH",
+    "Model": "Toyota Camry",
+    "Type": "Car",
+    "RegisteredOn": "2025-05-01",
+    "RegisteredMileage": 15000,
+    "Mileage": 29715,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-04-04",
+        "Mileage": 24844
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2026-01-03",
+        "Mileage": 20007
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-10-19",
+        "Mileage": 29397
+      }
+    ]
+  },
+  {
+    "Id": 18,
+    "Plate": "BK3549PE",
+    "Model": "VW Crafter",
+    "Type": "Van",
+    "RegisteredOn": "2022-10-08",
+    "RegisteredMileage": 15000,
+    "Mileage": 124205,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-06-12",
+        "Mileage": 110909
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2026-10-15",
+        "Mileage": 123156
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-03-26",
+        "Mileage": 107246
+      }
+    ]
+  },
+  {
+    "Id": 19,
+    "Plate": "CT4320XO",
+    "Model": "Ford Transit",
+    "Type": "Van",
+    "RegisteredOn": "2019-06-11",
+    "RegisteredMileage": 40000,
+    "Mileage": 126666,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-10-16",
+        "Mileage": 126169
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2026-01-24",
+        "Mileage": 119319
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-02-16",
+        "Mileage": 119119
+      }
+    ]
+  },
+  {
+    "Id": 20,
+    "Plate": "HT7875BI",
+    "Model": "Volvo FL",
+    "Type": "Truck",
+    "RegisteredOn": "2023-09-15",
+    "RegisteredMileage": 40000,
+    "Mileage": 163776,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2025-12-19",
+        "Mileage": 135661
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2024-12-17",
+        "Mileage": 103854
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-04-29",
+        "Mileage": 138088
+      }
+    ]
+  },
+  {
+    "Id": 21,
+    "Plate": "EC7761BX",
+    "Model": "Kia Ceed",
+    "Type": "Car",
+    "RegisteredOn": "2021-12-17",
+    "RegisteredMileage": 0,
+    "Mileage": 178317,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-05-13",
+        "Mileage": 158214
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2025-11-17",
+        "Mileage": 148670
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-10-17",
+        "Mileage": 177039
+      }
+    ]
+  },
+  {
+    "Id": 22,
+    "Plate": "KO7717PB",
+    "Model": "Iveco Eurocargo",
+    "Type": "Truck",
+    "RegisteredOn": "2024-12-05",
+    "RegisteredMileage": 0,
+    "Mileage": 90195,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-10-17",
+        "Mileage": 88734
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2026-03-16",
+        "Mileage": 62953
+      }
+    ]
+  },
+  {
+    "Id": 23,
+    "Plate": "EI8682KT",
+    "Model": "Volvo FL",
+    "Type": "Truck",
+    "RegisteredOn": "2023-03-08",
+    "RegisteredMileage": 90000,
+    "Mileage": 214520,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-10-21",
+        "Mileage": 213320
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2026-10-23",
+        "Mileage": 213629
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2025-12-09",
+        "Mileage": 181446
+      }
+    ]
+  },
+  {
+    "Id": 24,
+    "Plate": "CA2578OE",
+    "Model": "Hyundai Elantra",
+    "Type": "Car",
+    "RegisteredOn": "2021-08-20",
+    "RegisteredMileage": 15000,
+    "Mileage": 106621,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-05-15",
+        "Mileage": 97310
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2025-11-19",
+        "Mileage": 87105
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-01-31",
+        "Mileage": 95171
+      }
+    ]
+  },
+  {
+    "Id": 25,
+    "Plate": "IB5032BM",
+    "Model": "Skoda Octavia",
+    "Type": "Car",
+    "RegisteredOn": "2019-07-31",
+    "RegisteredMileage": 0,
+    "Mileage": 208526,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-06-11",
+        "Mileage": 198034
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2026-01-06",
+        "Mileage": 178451
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-05-01",
+        "Mileage": 195134
+      }
+    ]
+  },
+  {
+    "Id": 26,
+    "Plate": "II7007KO",
+    "Model": "Hyundai Elantra",
+    "Type": "Car",
+    "RegisteredOn": "2022-06-07",
+    "RegisteredMileage": 0,
+    "Mileage": 174107,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-07-21",
+        "Mileage": 162303
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2025-01-05",
+        "Mileage": 85797
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-03-21",
+        "Mileage": 149070
+      }
+    ]
+  },
+  {
+    "Id": 27,
+    "Plate": "CE3616EX",
+    "Model": "MAN TGL",
+    "Type": "Truck",
+    "RegisteredOn": "2024-03-05",
+    "RegisteredMileage": 40000,
+    "Mileage": 122281,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2025-12-12",
+        "Mileage": 98358
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2024-12-31",
+        "Mileage": 69813
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-05-29",
+        "Mileage": 111234
+      }
+    ]
+  },
+  {
+    "Id": 28,
+    "Plate": "AB2637CC",
+    "Model": "Mercedes Sprinter",
+    "Type": "Van",
+    "RegisteredOn": "2019-05-17",
+    "RegisteredMileage": 15000,
+    "Mileage": 184312,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-01-12",
+        "Mileage": 169857
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2025-11-04",
+        "Mileage": 160181
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2025-12-27",
+        "Mileage": 166106
+      }
+    ]
+  },
+  {
+    "Id": 29,
+    "Plate": "KX3513IX",
+    "Model": "Ford Transit",
+    "Type": "Van",
+    "RegisteredOn": "2020-03-18",
+    "RegisteredMileage": 15000,
+    "Mileage": 153996,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-04-16",
+        "Mileage": 144363
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2025-08-05",
+        "Mileage": 126915
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-07-26",
+        "Mileage": 149437
+      }
+    ]
+  },
+  {
+    "Id": 30,
+    "Plate": "KO7763BA",
+    "Model": "Ford Transit",
+    "Type": "Van",
+    "RegisteredOn": "2024-10-15",
+    "RegisteredMileage": 40000,
+    "Mileage": 74106,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-04-26",
+        "Mileage": 63931
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2025-02-24",
+        "Mileage": 41441
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-07-25",
+        "Mileage": 70207
+      }
+    ]
+  },
+  {
+    "Id": 31,
+    "Plate": "IP9344HP",
+    "Model": "VW Crafter",
+    "Type": "Van",
+    "RegisteredOn": "2019-09-07",
+    "RegisteredMileage": 0,
+    "Mileage": 162033,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-03-18",
+        "Mileage": 150172
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2026-08-12",
+        "Mileage": 156089
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-06-24",
+        "Mileage": 152037
+      }
+    ]
+  },
+  {
+    "Id": 32,
+    "Plate": "IO6175MO",
+    "Model": "DAF LF",
+    "Type": "Truck",
+    "RegisteredOn": "2019-12-30",
+    "RegisteredMileage": 0,
+    "Mileage": 348472,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-06-21",
+        "Mileage": 334611
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-01-30",
+        "Mileage": 313571
+      }
+    ]
+  },
+  {
+    "Id": 33,
+    "Plate": "BK6624TP",
+    "Model": "VW Crafter",
+    "Type": "Van",
+    "RegisteredOn": "2024-07-09",
+    "RegisteredMileage": 0,
+    "Mileage": 32181,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-01-29",
+        "Mileage": 22314
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2025-01-31",
+        "Mileage": 12399
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-05-31",
+        "Mileage": 26094
+      }
+    ]
+  },
+  {
+    "Id": 34,
+    "Plate": "HT6047TC",
+    "Model": "Renault Logan",
+    "Type": "Car",
+    "RegisteredOn": "2023-10-25",
+    "RegisteredMileage": 15000,
+    "Mileage": 78363,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-06-11",
+        "Mileage": 69163
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2026-01-08",
+        "Mileage": 58830
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-02-13",
+        "Mileage": 60002
+      }
+    ]
+  },
+  {
+    "Id": 35,
+    "Plate": "II5890AM",
+    "Model": "Renault Master",
+    "Type": "Van",
+    "RegisteredOn": "2020-11-05",
+    "RegisteredMileage": 15000,
+    "Mileage": 168515,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-07-10",
+        "Mileage": 162849
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2026-10-03",
+        "Mileage": 166824
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-02-19",
+        "Mileage": 147625
+      }
+    ]
+  },
+  {
+    "Id": 36,
+    "Plate": "KE5922TK",
+    "Model": "Renault Master",
+    "Type": "Van",
+    "RegisteredOn": "2022-07-15",
+    "RegisteredMileage": 15000,
+    "Mileage": 176619,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-06-10",
+        "Mileage": 164376
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2025-11-04",
+        "Mileage": 143718
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-02-12",
+        "Mileage": 157587
+      }
+    ]
+  },
+  {
+    "Id": 37,
+    "Plate": "MI7080EE",
+    "Model": "Kia Ceed",
+    "Type": "Car",
+    "RegisteredOn": "2023-08-26",
+    "RegisteredMileage": 90000,
+    "Mileage": 134828,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-09-16",
+        "Mileage": 133289
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2024-12-24",
+        "Mileage": 109578
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2025-12-07",
+        "Mileage": 121918
+      }
+    ]
+  },
+  {
+    "Id": 38,
+    "Plate": "KX1957PB",
+    "Model": "DAF LF",
+    "Type": "Truck",
+    "RegisteredOn": "2024-08-17",
+    "RegisteredMileage": 0,
+    "Mileage": 54039,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2025-12-20",
+        "Mileage": 33580
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2025-01-29",
+        "Mileage": 6769
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2025-10-31",
+        "Mileage": 35512
+      }
+    ]
+  },
+  {
+    "Id": 39,
+    "Plate": "BM5313BE",
+    "Model": "Kia Ceed",
+    "Type": "Car",
+    "RegisteredOn": "2023-11-16",
+    "RegisteredMileage": 0,
+    "Mileage": 110275,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-10-06",
+        "Mileage": 108052
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2025-03-23",
+        "Mileage": 67681
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-01-23",
+        "Mileage": 88443
+      }
+    ]
+  },
+  {
+    "Id": 40,
+    "Plate": "IB9480CB",
+    "Model": "Renault Logan",
+    "Type": "Car",
+    "RegisteredOn": "2019-02-14",
+    "RegisteredMileage": 0,
+    "Mileage": 79303,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-09-30",
+        "Mileage": 78687
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-10-21",
+        "Mileage": 79031
+      }
+    ]
+  },
+  {
+    "Id": 41,
+    "Plate": "EB2906OT",
+    "Model": "Toyota Camry",
+    "Type": "Car",
+    "RegisteredOn": "2021-06-12",
+    "RegisteredMileage": 0,
+    "Mileage": 147718,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-09-24",
+        "Mileage": 144351
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2026-10-22",
+        "Mileage": 146992
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-09-16",
+        "Mileage": 144156
+      }
+    ]
+  },
+  {
+    "Id": 42,
+    "Plate": "AP4263EC",
+    "Model": "Volvo FL",
+    "Type": "Truck",
+    "RegisteredOn": "2025-05-02",
+    "RegisteredMileage": 0,
+    "Mileage": 56422,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-02-07",
+        "Mileage": 22414
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2025-10-05",
+        "Mileage": 21359
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2025-10-31",
+        "Mileage": 29958
+      }
+    ]
+  },
+  {
+    "Id": 43,
+    "Plate": "IM5199TH",
+    "Model": "VW Crafter",
+    "Type": "Van",
+    "RegisteredOn": "2025-04-21",
+    "RegisteredMileage": 90000,
+    "Mileage": 110302,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-09-01",
+        "Mileage": 108127
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2026-05-10",
+        "Mileage": 104487
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-08-03",
+        "Mileage": 107862
+      }
+    ]
+  },
+  {
+    "Id": 44,
+    "Plate": "MM1972HO",
+    "Model": "Renault Logan",
+    "Type": "Car",
+    "RegisteredOn": "2023-02-10",
+    "RegisteredMileage": 40000,
+    "Mileage": 95551,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-05-03",
+        "Mileage": 88415
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2026-03-13",
+        "Mileage": 85094
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-10-25",
+        "Mileage": 95337
+      }
+    ]
+  },
+  {
+    "Id": 45,
+    "Plate": "IE9053TB",
+    "Model": "Ford Transit",
+    "Type": "Van",
+    "RegisteredOn": "2024-08-27",
+    "RegisteredMileage": 90000,
+    "Mileage": 172666,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-10-09",
+        "Mileage": 170326
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2025-03-03",
+        "Mileage": 103690
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2025-10-26",
+        "Mileage": 140751
+      }
+    ]
+  },
+  {
+    "Id": 46,
+    "Plate": "EA8842MC",
+    "Model": "VW Crafter",
+    "Type": "Van",
+    "RegisteredOn": "2022-10-21",
+    "RegisteredMileage": 0,
+    "Mileage": 53514,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-05-27",
+        "Mileage": 49191
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2026-09-11",
+        "Mileage": 51886
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-05-31",
+        "Mileage": 48922
+      }
+    ]
+  },
+  {
+    "Id": 47,
+    "Plate": "EA4889OE",
+    "Model": "Kia Ceed",
+    "Type": "Car",
+    "RegisteredOn": "2019-03-22",
+    "RegisteredMileage": 90000,
+    "Mileage": 300754,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-06-10",
+        "Mileage": 289446
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2026-04-12",
+        "Mileage": 284498
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-05-09",
+        "Mileage": 285274
+      }
+    ]
+  },
+  {
+    "Id": 48,
+    "Plate": "EM9308CX",
+    "Model": "Renault Logan",
+    "Type": "Car",
+    "RegisteredOn": "2020-10-06",
+    "RegisteredMileage": 0,
+    "Mileage": 224288,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-05-01",
+        "Mileage": 209316
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2026-04-12",
+        "Mileage": 202950
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-03-25",
+        "Mileage": 197896
+      }
+    ]
+  },
+  {
+    "Id": 49,
+    "Plate": "IO7143KI",
+    "Model": "VW Golf",
+    "Type": "Car",
+    "RegisteredOn": "2022-07-11",
+    "RegisteredMileage": 40000,
+    "Mileage": 192294,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-09-19",
+        "Mileage": 187351
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2024-12-22",
+        "Mileage": 142695
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-07-12",
+        "Mileage": 183781
+      }
+    ]
+  },
+  {
+    "Id": 50,
+    "Plate": "HX4329BM",
+    "Model": "Renault Logan",
+    "Type": "Car",
+    "RegisteredOn": "2019-08-16",
+    "RegisteredMileage": 0,
+    "Mileage": 276025,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-10-24",
+        "Mileage": 275375
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2025-01-29",
+        "Mileage": 223431
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-09-29",
+        "Mileage": 272434
+      }
+    ]
+  },
+  {
+    "Id": 51,
+    "Plate": "KH1395PX",
+    "Model": "DAF LF",
+    "Type": "Truck",
+    "RegisteredOn": "2020-08-07",
+    "RegisteredMileage": 0,
+    "Mileage": 181206,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-09-10",
+        "Mileage": 176403
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2025-02-08",
+        "Mileage": 122297
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-01-18",
+        "Mileage": 155193
+      }
+    ]
+  },
+  {
+    "Id": 52,
+    "Plate": "IP8154MT",
+    "Model": "Skoda Octavia",
+    "Type": "Car",
+    "RegisteredOn": "2023-07-11",
+    "RegisteredMileage": 15000,
+    "Mileage": 82658,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-05-13",
+        "Mileage": 72019
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2025-12-30",
+        "Mileage": 62843
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-07-06",
+        "Mileage": 76141
+      }
+    ]
+  },
+  {
+    "Id": 53,
+    "Plate": "IH8516XM",
+    "Model": "VW Golf",
+    "Type": "Car",
+    "RegisteredOn": "2019-12-13",
+    "RegisteredMileage": 15000,
+    "Mileage": 129327,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2025-12-17",
+        "Mileage": 115173
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2025-06-25",
+        "Mileage": 110052
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-02-28",
+        "Mileage": 114970
+      }
+    ]
+  },
+  {
+    "Id": 54,
+    "Plate": "MK7863BT",
+    "Model": "Skoda Octavia",
+    "Type": "Car",
+    "RegisteredOn": "2024-12-15",
+    "RegisteredMileage": 0,
+    "Mileage": 48801,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-04-30",
+        "Mileage": 37968
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2025-07-20",
+        "Mileage": 20498
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-02-03",
+        "Mileage": 24732
+      }
+    ]
+  },
+  {
+    "Id": 55,
+    "Plate": "CC9187KH",
+    "Model": "Iveco Eurocargo",
+    "Type": "Truck",
+    "RegisteredOn": "2021-12-27",
+    "RegisteredMileage": 0,
+    "Mileage": 126492,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-09-30",
+        "Mileage": 123752
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2026-05-16",
+        "Mileage": 113428
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-03-16",
+        "Mileage": 113791
+      }
+    ]
+  },
+  {
+    "Id": 56,
+    "Plate": "CH2318AA",
+    "Model": "Iveco Eurocargo",
+    "Type": "Truck",
+    "RegisteredOn": "2025-05-29",
+    "RegisteredMileage": 15000,
+    "Mileage": 60476,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-03-28",
+        "Mileage": 42547
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2026-07-28",
+        "Mileage": 53134
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-07-26",
+        "Mileage": 51440
+      }
+    ]
+  },
+  {
+    "Id": 57,
+    "Plate": "AK8552OT",
+    "Model": "Renault Master",
+    "Type": "Van",
+    "RegisteredOn": "2019-12-11",
+    "RegisteredMileage": 0,
+    "Mileage": 230307,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-01-28",
+        "Mileage": 206810
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2026-02-28",
+        "Mileage": 213590
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-06-12",
+        "Mileage": 219516
+      }
+    ]
+  },
+  {
+    "Id": 58,
+    "Plate": "CP3373BI",
+    "Model": "VW Golf",
+    "Type": "Car",
+    "RegisteredOn": "2024-06-17",
+    "RegisteredMileage": 40000,
+    "Mileage": 92495,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-09-01",
+        "Mileage": 87957
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2025-08-23",
+        "Mileage": 63993
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2025-11-26",
+        "Mileage": 70436
+      }
+    ]
+  },
+  {
+    "Id": 59,
+    "Plate": "EO2005BK",
+    "Model": "Hyundai Elantra",
+    "Type": "Car",
+    "RegisteredOn": "2020-07-03",
+    "RegisteredMileage": 0,
+    "Mileage": 98209,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-07-05",
+        "Mileage": 93240
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2025-03-08",
+        "Mileage": 67850
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2025-12-24",
+        "Mileage": 85251
+      }
+    ]
+  },
+  {
+    "Id": 60,
+    "Plate": "BB7231TH",
+    "Model": "VW Crafter",
+    "Type": "Van",
+    "RegisteredOn": "2023-09-20",
+    "RegisteredMileage": 0,
+    "Mileage": 29882,
+    "History": [
+      {
+        "Kind": "OilChange",
+        "Date": "2026-08-20",
+        "Mileage": 28458
+      },
+      {
+        "Kind": "Brakes",
+        "Date": "2025-02-03",
+        "Mileage": 10914
+      },
+      {
+        "Kind": "Inspection",
+        "Date": "2026-07-10",
+        "Mileage": 26813
+      }
+    ]
+  }
+]
