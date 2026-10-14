@@ -1,0 +1,40 @@
+name: ci
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x
+
+      - name: Restore
+        run: dotnet restore FleetMaintenance.sln
+
+      - name: Format check
+        run: dotnet format FleetMaintenance.sln --verify-no-changes --no-restore
+
+      - name: Build
+        run: dotnet build FleetMaintenance.sln -c Release --no-restore -warnaserror
+
+      - name: Test with coverage (threshold 70 % line)
+        run: >
+          dotnet test FleetMaintenance.sln -c Release --no-build
+          /p:CollectCoverage=true
+          /p:CoverletOutputFormat=cobertura
+          /p:CoverletOutput=../../coverage/
+
+      - name: Upload coverage
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: coverage
+          path: coverage/coverage.cobertura.xml
