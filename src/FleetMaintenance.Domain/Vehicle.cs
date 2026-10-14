@@ -5,7 +5,7 @@ using System.Linq;
 namespace FleetMaintenance.Domain;
 
 /// <summary>Транспортний засіб автопарку з пробігом й історією ТО.</summary>
-public sealed class Vehicle
+   public sealed class Vehicle
 {
     private readonly List<ServiceRecord> _history = new();
 
