@@ -30,8 +30,7 @@ public static class Mappers
     /// <returns>Дані для запису у файл.</returns>
     public static VehicleDto ToVehicleDto(Vehicle vehicle)
     {
-        return new VehicleDto
-        {
+        return new VehicleDto {
             Id = vehicle.Id,
             Plate = vehicle.Info.Plate,
             Model = vehicle.Info.Model,
@@ -40,8 +39,7 @@ public static class Mappers
             RegisteredMileage = vehicle.Registered.Mileage,
             Mileage = vehicle.Mileage,
             History = vehicle.History
-                .Select(r => new ServiceRecordDto
-                {
+                .Select(r => new ServiceRecordDto {
                     Kind = r.Kind.ToString(),
                     Date = r.Point.Date,
                     Mileage = r.Point.Mileage,
@@ -59,8 +57,7 @@ public static class Mappers
             dto.Id,
             dto.VehicleId,
             Enum.Parse<ServiceKind>(dto.Kind),
-            dto.PlannedOn)
-        {
+            dto.PlannedOn) {
             Cost = dto.Cost,
         };
         order.Restore(Enum.Parse<OrderStatus>(dto.Status), dto.CompletedOn);
@@ -72,8 +69,7 @@ public static class Mappers
     /// <returns>Дані для запису у файл.</returns>
     public static OrderDto ToOrderDto(ServiceOrder order)
     {
-        return new OrderDto
-        {
+        return new OrderDto {
             Id = order.Id,
             VehicleId = order.VehicleId,
             Kind = order.Kind.ToString(),

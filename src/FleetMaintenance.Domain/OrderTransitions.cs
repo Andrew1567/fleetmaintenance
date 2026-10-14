@@ -5,8 +5,7 @@ namespace FleetMaintenance.Domain;
 /// <summary>Таблиця переходів станів замовлення (розділ 1.5 специфікації).</summary>
 public static class OrderTransitions
 {
-    private static readonly Dictionary<(OrderStatus, OrderEvent), OrderStatus> Table = new()
-    {
+    private static readonly Dictionary<(OrderStatus, OrderEvent), OrderStatus> Table = new() {
         [(OrderStatus.Planned, OrderEvent.Start)] = OrderStatus.InProgress,
         [(OrderStatus.Planned, OrderEvent.Cancel)] = OrderStatus.Cancelled,
         [(OrderStatus.InProgress, OrderEvent.Complete)] = OrderStatus.Done,

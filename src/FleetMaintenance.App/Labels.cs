@@ -8,8 +8,7 @@ internal static class Labels
 {
     internal static string Of(MaintenanceStatus status)
     {
-        return status switch
-        {
+        return status switch {
             MaintenanceStatus.Ok => "норма",
             MaintenanceStatus.DueSoon => "скоро",
             _ => "прострочено",
@@ -18,8 +17,7 @@ internal static class Labels
 
     internal static string Of(ServiceKind kind)
     {
-        return kind switch
-        {
+        return kind switch {
             ServiceKind.OilChange => "мастило",
             ServiceKind.Brakes => "гальма",
             _ => "огляд",
@@ -28,8 +26,7 @@ internal static class Labels
 
     internal static string Of(OrderStatus status)
     {
-        return status switch
-        {
+        return status switch {
             OrderStatus.Planned => "заплановано",
             OrderStatus.InProgress => "виконується",
             OrderStatus.Done => "виконано",

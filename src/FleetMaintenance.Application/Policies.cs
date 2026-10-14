@@ -29,8 +29,7 @@ public sealed record ServiceAssessment(MaintenanceCheck Check, decimal Cost);
 /// <summary>Таблиця міжсервісних інтервалів (розділ 1.4 специфікації).</summary>
 public static class IntervalTable
 {
-    private static readonly Dictionary<(VehicleType, ServiceKind), ServiceInterval> Rows = new()
-    {
+    private static readonly Dictionary<(VehicleType, ServiceKind), ServiceInterval> Rows = new() {
         [(VehicleType.Car, ServiceKind.OilChange)] = new(10000, 12),
         [(VehicleType.Car, ServiceKind.Brakes)] = new(30000, 24),
         [(VehicleType.Car, ServiceKind.Inspection)] = new(20000, 12),
@@ -129,15 +128,13 @@ public sealed class PricingPolicy : IPricingPolicy
     private const decimal OverdueFactor = 1.15m;
     private const int PriceDecimals = 2;
 
-    private static readonly Dictionary<ServiceKind, decimal> BasePrice = new()
-    {
+    private static readonly Dictionary<ServiceKind, decimal> BasePrice = new() {
         [ServiceKind.OilChange] = 1200m,
         [ServiceKind.Brakes] = 3500m,
         [ServiceKind.Inspection] = 1800m,
     };
 
-    private static readonly Dictionary<VehicleType, decimal> TypeFactor = new()
-    {
+    private static readonly Dictionary<VehicleType, decimal> TypeFactor = new() {
         [VehicleType.Car] = 1.00m,
         [VehicleType.Van] = 1.25m,
         [VehicleType.Truck] = 1.60m,

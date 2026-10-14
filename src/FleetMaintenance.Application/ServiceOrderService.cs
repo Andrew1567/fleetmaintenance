@@ -57,8 +57,7 @@ public sealed class ServiceOrderService
             return Reject("UC-02", "Обслуговування ще не потрібне.");
         }
 
-        var order = new ServiceOrder(_orders.NextId(), vehicle.Id, k.Value, _env.Today)
-        {
+        var order = new ServiceOrder(_orders.NextId(), vehicle.Id, k.Value, _env.Today) {
             Cost = assessment.Cost,
         };
         _orders.Add(order);

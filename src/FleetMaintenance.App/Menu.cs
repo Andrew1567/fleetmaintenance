@@ -31,8 +31,7 @@ internal sealed class Menu
         _in = input;
         _out = output;
         _app = app;
-        _commands = new Dictionary<string, Action>
-        {
+        _commands = new Dictionary<string, Action> {
             ["1"] = RegisterMileage,
             ["2"] = PlanService,
             ["3"] = ChangeOrder,
